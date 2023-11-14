@@ -1,5 +1,10 @@
-# OROUTER SPATIAL DATA
+# OROUTER SPATIAL ANALYSES
 ![Model Performance](https://i.imgur.com/s7t3QlR.png)
+
+## Intro
+The ōRouter is capable of capturing and analyzing ELF ambient radio frequency (RF) signals. It operates by creating RF "fingerprints" of static and extracting features that are unique to the location. This unique approach allows for smart spatial applications. 
+
+With its precise location-based RF analysis, the ōRouter can be utilized to visualize and interact with metaverse assets anchored to specific real-world locations. This functionality enables a seamless blend of digital and physical worlds, enhancing user experiences in augmented reality (AR) and virtual reality (VR) applications. In the domain of transportation and shipping, the ōRouter aids in managing the delivery and execution of transactions. Its ability to provide detailed spatial data ensures efficient route planning, real-time tracking, and enhanced security for transported goods. This is especially useful for companies seeking to optimize their supply chain and logistics operations through technology.
 
 ## Requirements
 Python 3.9
