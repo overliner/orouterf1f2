@@ -9,7 +9,7 @@ Python 3.9
 To install the necessary packages, run the following command:
 
 ```bash
-pip install pandas numpy scikit-learn tensorflow
+pip install pandas numpy scikit-learn tensorflow matplotlib
 
 ```bash
 python create.py 
